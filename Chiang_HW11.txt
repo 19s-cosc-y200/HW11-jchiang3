@@ -1,21 +1,33 @@
 Project Name: Hands-On Exercises 3.1-3.4
 Author: Jennifer Chiang
-Date Last Modified: 4/2/19
+Date Last Modified: 4/6/19
 
 1. <p style="background-color: green; color: white;"></p>
-2. <head>
+
+2. IN HTML FILE:
+   <head>
 	<style>
 	  body { background-color: #EAEAEA; color: #000033; }
 	</style>
    </head>
-3. body { color: brown; 
+   IN CSS:
+	(see above. since it is embedded the code goes into the html file head. else code is anything within the <style> tags)
+
+3. IN CSS:
+   body { color: brown; 
 	  font-size: 1.2em;
 	  font-family: Arial, Verdana, serif;
    }
-4. <head>
+   IN HTML:
+	just use <body>
+
+4. IN HTML FILE:
+   <head>
 	<style>
 	  .new { font-size: bold;
 		 font-style: italic;
 	  }
 	</style>
    </head>
+   IN CSS:
+      (see above. since it is embedded the code goes into the html file head. else code is anything within the <style> tags)
