@@ -3,6 +3,7 @@ Author: Jennifer Chiang
 Date Last Modified: 4/6/19
 
 1. <p style="background-color: green; color: white;"></p>
+should be in hex
 
 2. IN HTML FILE:
    <head>
@@ -21,6 +22,8 @@ Date Last Modified: 4/6/19
    IN HTML:
 	just use <body>
 
+should be in hex
+	
 4. IN HTML FILE:
    <head>
 	<style>
@@ -31,3 +34,5 @@ Date Last Modified: 4/6/19
    </head>
    IN CSS:
       (see above. since it is embedded the code goes into the html file head. else code is anything within the <style> tags)
+
+should be font-weight
