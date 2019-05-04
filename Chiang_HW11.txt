@@ -1,0 +1,38 @@
+Project Name: Hands-On Exercises 3.1-3.4
+Author: Jennifer Chiang
+Date Last Modified: 4/6/19
+
+1. <p style="background-color: green; color: white;"></p>
+should be in hex
+
+2. IN HTML FILE:
+   <head>
+	<style>
+	  body { background-color: #EAEAEA; color: #000033; }
+	</style>
+   </head>
+   IN CSS:
+	(see above. since it is embedded the code goes into the html file head. else code is anything within the <style> tags)
+
+3. IN CSS:
+   body { color: brown; 
+	  font-size: 1.2em;
+	  font-family: Arial, Verdana, serif;
+   }
+   IN HTML:
+	just use <body>
+
+should be in hex
+	
+4. IN HTML FILE:
+   <head>
+	<style>
+	  .new { font-size: bold;
+		 font-style: italic;
+	  }
+	</style>
+   </head>
+   IN CSS:
+      (see above. since it is embedded the code goes into the html file head. else code is anything within the <style> tags)
+
+should be font-weight
